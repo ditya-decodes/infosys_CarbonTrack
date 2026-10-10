@@ -265,7 +265,9 @@ Potential areas for continued development include:
 ## 👥 Team and Acknowledgements
 
 **Project:** CarbonTrack — Web Platform for Environmental Impact Tracking and Sustainability Analytics
+
 **Program:** Infosys Springboard Virtual Internship 7.0
+
 **Batch:** Batch 1
 
 This project provided practical experience in full-stack development, REST API integration, database management, testing, documentation, and collaborative software engineering.
