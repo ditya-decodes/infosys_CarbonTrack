@@ -268,7 +268,6 @@ Potential areas for continued development include:
 **Program:** Infosys Springboard Virtual Internship 7.0
 **Batch:** Batch 1
 
-We sincerely thank Infosys Springboard, our mentors and coordinators, Mr. Sainath and Mr. Jothiragavan T., and our teammates for their guidance, collaboration, and support throughout the project.
 This project provided practical experience in full-stack development, REST API integration, database management, testing, documentation, and collaborative software engineering.
 ---
 **Built to make everyday sustainability measurable.🌱**
