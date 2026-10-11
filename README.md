@@ -39,6 +39,9 @@ The application combines a **Spring Boot REST API backend**, a **React.js fronte
 * **Team and Organizational Reporting:** Provide an organizational perspective on environmental impact.
 * **Authentication:** Support secure user authentication using JWT, with Google OAuth2 configuration.
 * **Sprout AI Eco-Assistant:** Offer sustainability guidance and environmental insights.
+* **Multilingual Interface:** Switch between 6 languages from the dashboard.
+* **Streak Tracking:** Build daily habits with activity streaks.
+* **Dark Mode:** Light and dark themes across the dashboard.
 * **Responsive Interface:** Access sustainability information through an interactive web interface.
 
 *Feature availability depends on the modules implemented and configured in the current version.*
@@ -258,7 +261,6 @@ Potential areas for continued development include:
 * More comprehensive emission-factor datasets and source attribution.
 * Expanded analytics and interactive visualizations.
 * Improved recommendation personalization.
-* Enhanced multilingual accessibility.
 * Deeper organizational reporting and export capabilities.
 * Automated deployment, performance testing, and API documentation.
 
